@@ -1,0 +1,21 @@
+.header{
+    text-align: center;
+    border: 2px solid black;
+    background-color: black;
+    color: white;
+}
+.abd{
+    text-align: center;
+}
+.img{
+    text-align: center;
+}
+.about{
+    text-align: center;
+}
+.footer{
+    text-align: center;
+    border: 2px solid black;
+    background-color: black;
+    color: white;
+}
